@@ -1,9 +1,9 @@
-import React from "react";
+import React from 'react';
 
-const App = () => {
+function App() {
   return (
     <div>
-      <p>Hello there!</p>
+      <p>Hello world!</p>
     </div>
   );
 }
